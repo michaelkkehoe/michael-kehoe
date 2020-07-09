@@ -1,10 +1,5 @@
 ### Hi 👋, I'm Michael Kehoe
 
-<!--
-**michael-kehoe/michael-kehoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -19,3 +14,6 @@ Here are some ideas to get you started:
 - Twitter: [@michaelkkehoe](https://twitter.com/michaelkkehoe)
 - LinkedIn: [michaelkkehoe](https://www.linkedin.com/in/michaelkkehoe/)
 - YouTube: [Michael Kehoe](https://www.youtube.com/channel/UCINrLCgyAgRDkENyAppP-6w)
+- Network: [AS43308](https://bgp.he.net/AS43308)
+
+- 📫 How to reach me: Message me via LinkedIn or Twitter DM's
