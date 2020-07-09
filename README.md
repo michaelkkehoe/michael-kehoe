@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Twitter: [@michaelkkehoe](https://twitter.com/michaelkkehoe)
-LinkedIn: [michaelkkehoe](https://www.linkedin.com/in/michaelkkehoe/)
-YouTube: [Michael Kehoe](https://www.youtube.com/channel/UCINrLCgyAgRDkENyAppP-6w)
+- Site: [michael-kehoe.io](https://michael-kehoe.io)
+- Twitter: [@michaelkkehoe](https://twitter.com/michaelkkehoe)
+- LinkedIn: [michaelkkehoe](https://www.linkedin.com/in/michaelkkehoe/)
+- YouTube: [Michael Kehoe](https://www.youtube.com/channel/UCINrLCgyAgRDkENyAppP-6w)
