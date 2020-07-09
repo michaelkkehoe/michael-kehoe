@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Michael Kehoe
 
-Michael is a author, speaker and Sr Staff Site Reliability Engineer (SRE) at LinkedIn currently architecting LinkedIn’s move to Microsoft Azure. Before graduating with a Bachelor of Electrical Engineering from the University of Queensland (Australia), Michael interned at NASA Ames Research Center building small-satellites known as Phonesats.
+I am an author, speaker and Sr Staff Site Reliability Engineer (SRE) at LinkedIn currently architecting LinkedIn’s move to Microsoft Azure. Before graduating with a Bachelor of Electrical Engineering from the University of Queensland (Australia), Michael interned at NASA Ames Research Center building small-satellites known as Phonesats.
 
 - Site: [michael-kehoe.io](https://michael-kehoe.io)
 - Twitter: [@michaelkkehoe](https://twitter.com/michaelkkehoe)
