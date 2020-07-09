@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Michael Kehoe
 
 <!--
 **michael-kehoe/michael-kehoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Twitter: [@michaelkkehoe](https://twitter.com/michaelkkehoe)
+LinkedIn: [michaelkkehoe](https://www.linkedin.com/in/michaelkkehoe/)
+YouTube: [Michael Kehoe](https://www.youtube.com/channel/UCINrLCgyAgRDkENyAppP-6w)
