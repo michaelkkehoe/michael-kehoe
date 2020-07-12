@@ -8,4 +8,6 @@ I am an author, speaker and Sr Staff Site Reliability Engineer (SRE) at LinkedIn
 * YouTube: [Michael Kehoe](https://www.youtube.com/channel/UCINrLCgyAgRDkENyAppP-6w)
 * Network: [AS43308](https://bgp.he.net/AS43308)
 
+ ---
+ 
 - 📫 How to reach me: Message me via LinkedIn or Twitter DM's
