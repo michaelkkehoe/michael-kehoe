@@ -10,5 +10,5 @@ I am an author, speaker and Sr Staff Site Reliability Engineer (SRE) at LinkedIn
 
  ---
  
-* 📫 How to reach me: Message me via LinkedIn or Twitter DM's
-* 🔨 What I'm working on: Migrating LinkedIn over to Azure ☁️
+* 📫  How to reach me: Message me via LinkedIn or Twitter DM's
+* 🔨  What I'm working on: Migrating LinkedIn over to Azure ☁️
